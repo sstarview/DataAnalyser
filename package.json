@@ -6,7 +6,9 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-map-gl": "^5.0.10",
-    "react-scripts": "3.1.1"
+    "react-papaparse": "^1.0.5",
+    "react-scripts": "3.1.1",
+    "recharts": "^1.7.1"
   },
   "scripts": {
     "start": "react-scripts start",
